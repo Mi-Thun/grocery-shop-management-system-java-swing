@@ -1,0 +1,13 @@
+Davidoff Expresso57,500,Davidoff,Cofee,Discover the smooth aroma
+NescafeGold,500,Nescafe,Cofee,100% Arabic beans
+Chinigura Rice,95,Pran,Rice,Good for health
+Egg,8,n/a,Egg,Have high protine
+Chicken Noodles,135,Danish,Noodles,Good quality
+Bran oil,100,ACI,oil,Low fat
+Parachute Coconut oil,70,Parachute,Hair oil,Good for hair
+Solt,45,ACI,Solt,Have iodine
+Pre NAN,930,Nestle,n/a,Good
+Rice,55,n/a,Rice,Good
+Egg,8,n/a,Egg,High protine
+jkhk,dfdgdfg,fdgdfgdfg,dgfdgfdg,dfgfdgfd
+yuguygjyugjgbjbjhbgjhhjbjhhhhhhhh,yfscgsaukhdaskjdnaskjdnsad,sadasdasdad,dasdasdsadasd,kakshdishdoasihdasoisdhasiudh
